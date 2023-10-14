@@ -1,0 +1,121 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "Anguler, React, Bootstrap, Material UI, JQuery"
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "ExpressJS, NodeJS, Spring Boot, Spring, Django"
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "Design",
+      "description": "Adobe Photoshop, Adobe Illustrator, Figma, Canva"
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Programming Languages",
+      "description": "Java, Python, C, C++, C#, Javascript, HTML, CSS, PHP, XML, Typescript"
+    },
+    {
+      "id": "5",
+      "src": "./img/IDE-logo.png",
+      "title": "IDE",
+      "description": "Eclipse, Microsoft Visual Code, Code Blocks, Android Studio, MATLAB, Unity, Github"
+    },
+    {
+      "id": "6",
+      "src": "./img/Database-logo.png",
+      "title": "Databases",
+      "description": "MySQL, Oracle, MongoDB"
+    },
+    {
+      "id": "7",
+      "src": "./img/project-management-logo.png",
+      "title": "Project Management Methodologies",
+      "description": "Agile, Scrum"
+    }
+  ],
+  "experience": [
+    {
+      "id": "1",
+      "src": "./img/college-logo.png",
+      "title": "Education",
+      "description1": "• Baccalauréat: Sciences Expériemntales - LMMB - 2019",
+      "description2": "• Licence: Computer Science - ISAMM - 2020 -> 2024 (* i took a gap year for personal reasons)"
+    },
+    {
+      "id": "2",
+      "src": "./img/hs-logo.png",
+      "title": "Certification",
+      "description1": "• JavaScript Algorithms and Data Structures – Free Code Camp",
+      "description2": "• CS50 Harvard Online Course Certification",
+      "description3": "• Front End Development Libraries – Free Code Camp"
+    },
+    {
+      "id": "3",
+      "src": "./img/experience-logo.png",
+      "title": "Job",
+      "description1": "• Waitress: Worked as part of a team to keep the dining room clean and organized during busy hours and Take and serve food/drinks orders | 06-2021 -> 07-2023",
+      "description2": "• TelePerformance: Manage large amounts of inbound and outbound calls in a timely manner. Identify customers' needs, clarify information, research every issue and provide solutions and/or alternatives. | 08-2023 -> now (night shift)"
+    },
+    {
+      "id": "4",
+      "src": "./img/intern-logo.png",
+      "title": "Intern",
+      "description1": "• I-Way Manar : Discover and manipulate ODOO modules as well as the technical architecture. Develop an ODOO module with Python and Javascript that focuses on managing patient appointments | 08/2022 -> 09/2022",
+      "description2": "• Bh Bank : Discover a bank’s database. Manage current operations (make deposits, withdrawals, transfers, etc.) | 07/2022 -> 08/2022"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.png",
+      "title": "Shopping Website",
+      "description": "Shopping Website with Cart made with React",
+      "link": "https://www.github.com/zaineb291/Simple-React-Shopping-Cart"
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-1.png",
+      "title": "Weather App",
+      "description": "Weather website made with React to check the weather in citys",
+      "link": "https://www.github.com/zaineb291/WeatherApp"
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-2.png",
+      "title": "Expense Tracker",
+      "description": "track your expenses and incomes with this website made with React",
+      "link": "https://www.github.com/zaineb291/Expense-Tracker"
+    },
+    {
+      "id": "4",
+      "src": "./img/placeholder-image-3.png",
+      "title": "Sign up Sign in Form",
+      "description": "Sign up Sign in Form With Sliding Made With React",
+      "link": "https://www.github.com/zaineb291/SignUP-SignIN"
+    },
+    {
+      "id": "5",
+      "src": "./img/placeholder-image-4.png",
+      "title": "Real Time Chat App",
+      "description": "real time chat app with room ids made wwith react",
+      "link": "https://www.github.com/zaineb291/Realtime-Chat-App"
+    },
+    {
+      "id": "6",
+      "src": "./img/placeholder-image-5.png",
+      "title": "Quote App",
+      "description": "Random Quote App Using React and API",
+      "link": "https://www.github.com/zaineb291/advice-app-react"
+    }
+  ]
+}
